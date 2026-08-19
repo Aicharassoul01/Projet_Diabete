@@ -51,7 +51,7 @@ Les performances obtenues lors des expérimentations sont :
 ```text
 Projet_Diabete/
 ├── Projet_Diabete.ipynb
-├── diabetes.csv
+├── diabète.csv
 └── README.md
 ```
 
